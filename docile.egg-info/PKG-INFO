@@ -7,8 +7,8 @@ Author: Jérémy DEMANGE
 Author-email: j@lachainemedias.com
 License: UNKNOWN
 Description: # Docile
-        Your automated Python documentation.
         
+        Your automated Python documentation.
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License

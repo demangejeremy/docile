@@ -1,0 +1,7 @@
+README.md
+docile
+setup.py
+docile.egg-info/PKG-INFO
+docile.egg-info/SOURCES.txt
+docile.egg-info/dependency_links.txt
+docile.egg-info/top_level.txt

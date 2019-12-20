@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
      name='docile',  
-     version='0.0.1',
+     version='0.0.2',
      scripts=['docile'] ,
      author="Jérémy DEMANGE",
      author_email="j@lachainemedias.com",
